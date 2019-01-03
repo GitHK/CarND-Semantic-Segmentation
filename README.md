@@ -2,6 +2,9 @@
 
 ### Results notes
 
+Inside the `data/1545576582.0125058` directory the newest inference
+images can be found.
+
 The final result can be visualized in the image below
 
 ![](./data/1545576582_0125058.gif)
